@@ -37,7 +37,7 @@ Abdurahman is a 32 year old Teacher and he has a drivers' license
 
 The example above works because tutorDetails is the owner of the function that calls the method, so the this keyword points to it and thats how we could get all those parameters.
 
-An untamed definition, the this keyword points to whatever is used to call the method/function in which it exists.
+An untamed definition: **The this keyword points to whatever is used to call the method/function in which it exists.**
 
 I guess that makes the this keyword quite useful right? 😊
 
